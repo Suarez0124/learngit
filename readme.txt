@@ -31,3 +31,6 @@ git push gitlab master
 git push gitee master
 
 这样一来，本地库就可以同时与多个远程库互相同步了。
+
+参考网站:
+<https://779979088.xyz/2020/05/27/upload-the-code-to-github-and-gitlab-at-the-same-time/>
